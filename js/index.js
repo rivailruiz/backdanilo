@@ -51,4 +51,4 @@ function counter(date) {
   timer = setInterval(count, 1000);
 }
 
-counter('10/24/2018 1:00:00 GMT-0400 (EDT)');
+counter('11/19/2018 1:00:00 GMT-0400 (EDT)');
